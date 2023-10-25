@@ -3,7 +3,7 @@
 
 <h3 align="center">Connect with me: (我的連結)</h3>
 <p align="center">
-<a href="https://codepen.io/xiaogua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="xiaogua" height="30" width="40" /></a>
+<a href="https://codepen.io/XiaoGua0377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="XiaoGua0377" height="30" width="40" /></a>
 <a href="https://instagram.com/xiaogua0377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xiaogua0377" height="30" width="40" /></a>
 <a href="https://discord.gg/xiaogua0377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xiaogua0377" height="30" width="40" /></a>
 </p>
